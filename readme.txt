@@ -1,0 +1,1 @@
+This is a matlab file for homework 3. The parameters (A, b, e and Pi) has been set in the main function. User can run the mainfunction directly.
